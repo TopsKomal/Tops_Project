@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-11T15:04:58 IST" name="Default suite" finished-at="2023-08-11T15:09:10 IST" duration-ms="252337">
+    <groups>
+    </groups>
+    <test started-at="2023-08-11T15:04:58 IST" name="Default test" finished-at="2023-08-11T15:09:10 IST" duration-ms="252337">
+      <class name="com.DataDrivenFW.Swag_Labs">
+        <test-method signature="verifySwagLabs()[pri:0, instance:com.DataDrivenFW.Swag_Labs@644baf4a]" started-at="2023-08-11T15:04:58 IST" name="verifySwagLabs" finished-at="2023-08-11T15:09:10 IST" duration-ms="252173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySwagLabs -->
+      </class> <!-- com.DataDrivenFW.Swag_Labs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
